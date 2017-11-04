@@ -1,0 +1,8 @@
+prefix=/home/zihao/RosTest2/devel
+
+Name: starter
+Description: Description of starter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zihao/RosTest2/devel/lib 
+Requires: 
